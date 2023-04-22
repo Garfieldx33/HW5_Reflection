@@ -13,3 +13,5 @@ C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\refint\
 C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.pdb
 C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.genruntimeconfig.cache
 C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\ref\HW5_Reflection.dll
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.csproj.CopyComplete
