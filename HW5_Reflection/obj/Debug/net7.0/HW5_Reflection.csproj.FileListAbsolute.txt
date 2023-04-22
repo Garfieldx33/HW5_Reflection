@@ -1,0 +1,15 @@
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\HW5_Reflection.exe
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\HW5_Reflection.deps.json
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\HW5_Reflection.runtimeconfig.json
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\HW5_Reflection.dll
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\bin\Debug\net7.0\HW5_Reflection.pdb
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.csproj.AssemblyReference.cache
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.AssemblyInfoInputs.cache
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.AssemblyInfo.cs
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.dll
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\refint\HW5_Reflection.dll
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.pdb
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\HW5_Reflection.genruntimeconfig.cache
+C:\Users\LAS\source\repos\HW5_Reflection\HW5_Reflection\obj\Debug\net7.0\ref\HW5_Reflection.dll
