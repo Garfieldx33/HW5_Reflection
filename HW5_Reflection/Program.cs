@@ -39,6 +39,8 @@ double DateDiffVar2 = (dateTimeFinish - dateTimeStart).TotalMilliseconds;
 Console.WriteLine($"Операция по сериализации {IterationCount} объектов по 1 варианту завершена за {DateDiffVar1} милисекунд");
 Console.WriteLine($"Операция по сериализации {IterationCount} объектов по 2 варианту завершена за {DateDiffVar2} милисекунд");
 Console.ReadKey();
+
+
 string SerializeSingleObjectToCsv(object InputObject)
 {
     var t = InputObject.GetType();
